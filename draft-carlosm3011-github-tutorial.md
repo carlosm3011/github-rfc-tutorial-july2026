@@ -64,7 +64,7 @@ Useful ideas for using GitHub for document production.
 
 A set of Github actions will be triggered which will reshape the repository, include boilerplate in the document, create a README and a LICENSE file.
 
-# Normal Editing 
+# Normal Editing
 
 TBW**
 
