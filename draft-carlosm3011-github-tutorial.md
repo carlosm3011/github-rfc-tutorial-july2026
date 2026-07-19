@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Using GitHub to Write RFCs in a Smart Way"
+abbrev: "GitHub for RFCs"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-carlosm3011-github-tutorial-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: PERSONAL
+workgroup: PERSONAL
 keyword:
  - next generation
  - unicorn
@@ -45,9 +45,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Carlos Martinez-Cagnazzo
+    organization: ACME, Corp.
+    email: carlos.cagnazzo@acme.org
 
 normative:
 
