@@ -66,11 +66,13 @@ A set of Github actions will be triggered which will reshape the repository, inc
 
 # Normal Editing
 
-TBW**
+Edits can be made in-line on Github web or using the GH desktop app. Changes can be either committed or used to create a pull request.
+
+PRs are RECOMMENDED.
 
 # Sending to the datatracker
 
-TBW**
+This is done creating a TAG with the exact name of the draft. This will run the submission process.
 
 # Security Considerations
 
