@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: PERSONAL
-workgroup: PERSONAL
+# area: PERSONAL
+# workgroup: PERSONAL
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "carlosm3011/github-rfc-tutorial-july2026"
+  latest: "https://carlosm3011.github.io/github-rfc-tutorial-july2026/draft-carlosm3011-github-tutorial.html"
 
 author:
  -
