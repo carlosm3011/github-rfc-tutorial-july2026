@@ -51,9 +51,26 @@ Useful ideas for using GitHub for document production.
 
 {::boilerplate bcp14-tagged}
 
-# Some Testing of Checks
+# Bootstrapping
 
-I have a black grandfather who grandfathered a master and a slave.
+## Steps:
+
+  - Clone the template by "Martin J Thompson". 
+  - Edit the name of the md file to have a proper draft name.
+  - Fill in as much metadata as possible.
+  - Commit
+
+## What will happen next ? 
+
+A set of Github actions will be triggered which will reshape the repository, include boilerplate in the document, create a README and a LICENSE file.
+
+# Normal Editing 
+
+TBW**
+
+# Sending to the datatracker
+
+TBW**
 
 # Security Considerations
 
