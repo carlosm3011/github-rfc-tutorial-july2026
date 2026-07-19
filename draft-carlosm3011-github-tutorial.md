@@ -37,14 +37,14 @@ informative:
 
 --- abstract
 
-TODO Abstract
+So I made it to the GitHub for RFC work tutorial. This is a summary of what I learnt in it and what ideas may be useful for other types of work.
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
+Useful ideas for using GitHub for document production.
 
 
 # Conventions and Definitions
