@@ -104,6 +104,9 @@ Table of Contents
    The URL for the github template is: https://github.com/martinthomson/
    internet-draft-template
 
+   There is another repository under martinthomson that has extra
+   documentation.
+
 3.2.  What will happen next ?
 
    A set of Github actions will be triggered which will reshape the
