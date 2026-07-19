@@ -55,7 +55,7 @@ Useful ideas for using GitHub for document production.
 
 ## Steps:
 
-  - Clone the template by "Martin J Thompson". 
+  - Clone the template by "Martin J Thompson".
   - Edit the name of the md file to have a proper draft name.
   - Fill in as much metadata as possible.
   - Commit
