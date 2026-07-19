@@ -65,10 +65,14 @@ Table of Contents
 
    1.  Introduction
    2.  Conventions and Definitions
-   3.  Some Testing of Checks
-   4.  Security Considerations
-   5.  IANA Considerations
-   6.  Normative References
+   3.  Bootstrapping
+     3.1.  Steps:
+     3.2.  What will happen next ?
+   4.  Normal Editing
+   5.  Sending to the datatracker
+   6.  Security Considerations
+   7.  IANA Considerations
+   8.  Normative References
    Acknowledgments
    Author's Address
 
@@ -84,19 +88,41 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-3.  Some Testing of Checks
+3.  Bootstrapping
 
-   I have a black grandfather who grandfathered a master and a slave.
+3.1.  Steps:
 
-4.  Security Considerations
+   *  Clone the template by "Martin J Thompson".
+
+   *  Edit the name of the md file to have a proper draft name.
+
+   *  Fill in as much metadata as possible.
+
+   *  Commit
+
+3.2.  What will happen next ?
+
+   A set of Github actions will be triggered which will reshape the
+   repository, include boilerplate in the document, create a README and
+   a LICENSE file.
+
+4.  Normal Editing
+
+   TBW**
+
+5.  Sending to the datatracker
+
+   TBW**
+
+6.  Security Considerations
 
    TODO Security
 
-5.  IANA Considerations
+7.  IANA Considerations
 
    This document has no IANA actions.
 
-6.  Normative References
+8.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
