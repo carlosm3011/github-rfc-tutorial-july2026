@@ -62,6 +62,8 @@ Useful ideas for using GitHub for document production.
 
   The URL for the github template is: https://github.com/martinthomson/internet-draft-template
 
+  There is another repository under martinthomson that has extra documentation.
+
 ## What will happen next ?
 
 A set of Github actions will be triggered which will reshape the repository, include boilerplate in the document, create a README and a LICENSE file.
