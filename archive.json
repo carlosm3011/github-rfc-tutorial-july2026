@@ -1,0 +1,226 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:48:02.197811+00:00",
+  "repo": "carlosm3011/github-rfc-tutorial-july2026",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFc87zhnmV",
+      "title": "Update draft with abstract and introduction content",
+      "url": "https://github.com/carlosm3011/github-rfc-tutorial-july2026/pull/1",
+      "state": "MERGED",
+      "author": "carlosm3011",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added summary and introduction sections to the tutorial.",
+      "createdAt": "2026-07-19T11:33:43Z",
+      "updatedAt": "2026-07-19T11:34:18Z",
+      "baseRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "baseRefName": "main",
+      "baseRefOid": "15d2ca7b1bece1164e9b53bb0250859f480e969e",
+      "headRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "headRefName": "carlosm3011-patch-1",
+      "headRefOid": "d74e4a26781354d988051bbd8b1e80e23763b265",
+      "closedAt": "2026-07-19T11:34:18Z",
+      "mergedAt": "2026-07-19T11:34:17Z",
+      "mergedBy": "carlosm3011",
+      "mergeCommit": {
+        "oid": "a682eef6235f3d7ea100c5d952ddb5653435836a"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKFc87zho-k",
+      "title": "Add testing section to GitHub tutorial",
+      "url": "https://github.com/carlosm3011/github-rfc-tutorial-july2026/pull/2",
+      "state": "MERGED",
+      "author": "carlosm3011",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added a section for testing checks in the tutorial.",
+      "createdAt": "2026-07-19T11:36:13Z",
+      "updatedAt": "2026-07-19T11:36:57Z",
+      "baseRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "baseRefName": "main",
+      "baseRefOid": "a682eef6235f3d7ea100c5d952ddb5653435836a",
+      "headRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "headRefName": "carlosm3011-patch-2",
+      "headRefOid": "9dabf780f50fda6a4375bdcc0b3d267d75d72644",
+      "closedAt": "2026-07-19T11:36:57Z",
+      "mergedAt": "2026-07-19T11:36:57Z",
+      "mergedBy": "carlosm3011",
+      "mergeCommit": {
+        "oid": "8579b963ddf8de2d53fee4af23bf528c2f732622"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOTdKFc87zhrgs",
+      "title": "Add bootstrapping section and next steps",
+      "url": "https://github.com/carlosm3011/github-rfc-tutorial-july2026/pull/3",
+      "state": "MERGED",
+      "author": "carlosm3011",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Added bootstrapping steps and clarified next actions after cloning the template.",
+      "createdAt": "2026-07-19T11:40:31Z",
+      "updatedAt": "2026-07-19T11:43:25Z",
+      "baseRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "baseRefName": "main",
+      "baseRefOid": "8579b963ddf8de2d53fee4af23bf528c2f732622",
+      "headRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "headRefName": "carlosm3011-patch-3",
+      "headRefOid": "bd40a9bb234e06d299d4b93bac2acaa401af1249",
+      "closedAt": "2026-07-19T11:43:25Z",
+      "mergedAt": "2026-07-19T11:43:25Z",
+      "mergedBy": "carlosm3011",
+      "mergeCommit": {
+        "oid": "b63679a95641fa3204e7b0370065a10a30fb67da"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTdKFc88AAAABGfhycw",
+          "commit": {
+            "abbreviatedOid": "2da54aa"
+          },
+          "author": "github-actions",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:40:55Z",
+          "updatedAt": "2026-07-19T11:40:55Z",
+          "comments": [
+            {
+              "originalPosition": 19,
+              "body": "````suggestion\n# Normal Editing\n````",
+              "createdAt": "2026-07-19T11:40:55Z",
+              "updatedAt": "2026-07-19T11:40:55Z"
+            },
+            {
+              "originalPosition": 15,
+              "body": "````suggestion\n## What will happen next ?\n````",
+              "createdAt": "2026-07-19T11:40:55Z",
+              "updatedAt": "2026-07-19T11:40:55Z"
+            },
+            {
+              "originalPosition": 10,
+              "body": "````suggestion\n  - Clone the template by \"Martin J Thompson\".\n````",
+              "createdAt": "2026-07-19T11:40:55Z",
+              "updatedAt": "2026-07-19T11:40:55Z"
+            }
+          ]
+        },
+        {
+          "id": "PRR_kwDOTdKFc88AAAABGfh2pQ",
+          "commit": {
+            "abbreviatedOid": "1c9e4b2"
+          },
+          "author": "github-actions",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-19T11:41:47Z",
+          "updatedAt": "2026-07-19T11:41:48Z",
+          "comments": [
+            {
+              "originalPosition": 15,
+              "body": "````suggestion\n## What will happen next ?\n````",
+              "createdAt": "2026-07-19T11:41:47Z",
+              "updatedAt": "2026-07-19T11:41:48Z"
+            },
+            {
+              "originalPosition": 10,
+              "body": "````suggestion\n  - Clone the template by \"Martin J Thompson\".\n````",
+              "createdAt": "2026-07-19T11:41:48Z",
+              "updatedAt": "2026-07-19T11:41:48Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOTdKFc87ziPzb",
+      "title": "add url for martin thompson template repo",
+      "url": "https://github.com/carlosm3011/github-rfc-tutorial-july2026/pull/4",
+      "state": "MERGED",
+      "author": "carlosm3011",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "no se que poner aca\n",
+      "createdAt": "2026-07-19T12:42:01Z",
+      "updatedAt": "2026-07-19T12:44:44Z",
+      "baseRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "baseRefName": "main",
+      "baseRefOid": "60b29761b35cb20a55b495bebcc3299f38d4dbec",
+      "headRepository": "carlosm3011/github-rfc-tutorial-july2026",
+      "headRefName": "pr99",
+      "headRefOid": "daf19728b03f105a0a6f575b0628b6cb399dcba1",
+      "closedAt": "2026-07-19T12:44:43Z",
+      "mergedAt": "2026-07-19T12:44:43Z",
+      "mergedBy": "carlosm3011",
+      "mergeCommit": {
+        "oid": "ba2dab74b5a5b58af297b95e6a2e26dff40f6f68"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
